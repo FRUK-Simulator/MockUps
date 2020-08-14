@@ -1,0 +1,26 @@
+{
+  "name": "mockups",
+  "version": "1.0.0",
+  "description": "This repo is for static-ish mock ups of the project.",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "normalize.css": "^8.0.1",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRUK-Simulator/MockUps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRUK-Simulator/MockUps/issues"
+  },
+  "homepage": "https://github.com/FRUK-Simulator/MockUps#readme"
+}
